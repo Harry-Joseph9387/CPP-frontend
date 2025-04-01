@@ -5,6 +5,7 @@ import CarPriceForm from '../src/components/CarPriceForm.jsx';
 function App() {
   return (
     <div className="App">
+      <a href="" style={{"color":"white"}}> click this to restart cpp server       https://cpp-backend-xbv0.onrender.com/get-unique-values</a>
       <CarPriceForm />
     </div>
   );
